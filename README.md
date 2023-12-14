@@ -1,0 +1,1 @@
+This is an Indonesian dicoding machine learning project, in this project I divided the dataset that had been provided to do data training using a neural network, after training, it succeeded in getting an accuracy of 93.5%, so it succeeded in classifying the scissors, stone, and paper.
